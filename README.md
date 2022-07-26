@@ -15,8 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mritunjay-kumar-mj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivani-joshi-0206a3134" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shivanijoshi21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shivanijoshi21" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mritunjay-kumar-mj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mritunjay-kumar-mj" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Mritunjay?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Mritunjay" height="30" width="40" /></a>
+<a href="https://leetcode.com/mritu301/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mritu301" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
